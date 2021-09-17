@@ -1,0 +1,3 @@
+${PODS_ROOT}/Target Support Files/Pods-Angebote/Pods-Angebote-resources.sh
+${PODS_CONFIGURATION_BUILD_DIR}/FirebaseFirestore/gRPCCertificates-Firestore.bundle
+${PODS_ROOT}/GoogleSignIn/Resources/GoogleSignIn.bundle

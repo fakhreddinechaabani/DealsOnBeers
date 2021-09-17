@@ -1,0 +1,18 @@
+${PODS_ROOT}/Target Support Files/Pods-Angebote/Pods-Angebote-frameworks.sh
+${BUILT_PRODUCTS_DIR}/Bolts/Bolts.framework
+${BUILT_PRODUCTS_DIR}/BoringSSL/openssl.framework
+${BUILT_PRODUCTS_DIR}/Cosmos/Cosmos.framework
+${BUILT_PRODUCTS_DIR}/FBSDKCoreKit/FBSDKCoreKit.framework
+${BUILT_PRODUCTS_DIR}/FBSDKLoginKit/FBSDKLoginKit.framework
+${BUILT_PRODUCTS_DIR}/GTMSessionFetcher/GTMSessionFetcher.framework
+${BUILT_PRODUCTS_DIR}/GoogleToolboxForMac/GoogleToolboxForMac.framework
+${BUILT_PRODUCTS_DIR}/GoogleUtilities/GoogleUtilities.framework
+${PODS_ROOT}/Mapbox-iOS-SDK/dynamic/Mapbox.framework
+${PODS_ROOT}/Mapbox-iOS-SDK/dynamic/F0C64F51-D070-331B-8129-2D2BF0951472.bcsymbolmap
+${PODS_ROOT}/Mapbox-iOS-SDK/dynamic/9CF23414-7D29-3BAF-8FF1-1A8805878BE1.bcsymbolmap
+${BUILT_PRODUCTS_DIR}/Protobuf/Protobuf.framework
+${BUILT_PRODUCTS_DIR}/TinyConstraints/TinyConstraints.framework
+${BUILT_PRODUCTS_DIR}/gRPC-C++/grpcpp.framework
+${BUILT_PRODUCTS_DIR}/gRPC-Core/grpc.framework
+${BUILT_PRODUCTS_DIR}/leveldb-library/leveldb.framework
+${BUILT_PRODUCTS_DIR}/nanopb/nanopb.framework
